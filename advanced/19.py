@@ -1,4 +1,4 @@
-# 迭代器，生成器
+# 迭代器，生成器  https://time.geekbang.org/column/article/101521
 # import os
 # import psutil
 #

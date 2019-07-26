@@ -1,3 +1,4 @@
+# 自定义函数 https://time.geekbang.org/column/article/97764
 MIN_VALUE = 1
 MAX_VALUE = 10
 

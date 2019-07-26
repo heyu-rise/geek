@@ -1,4 +1,4 @@
-# 类，一群有着相同属性和函数的对象的集合
+# 类，一群有着相同属性和函数的对象的集合 面向对象1 https://time.geekbang.org/column/article/98658
 class Document:
     def __init__(self, title, author, context):
         print('init function called')

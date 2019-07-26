@@ -1,3 +1,4 @@
+# 面向对象2 https://time.geekbang.org/column/article/98998
 class SearchEngineBase:
     def __init__(self):
         pass

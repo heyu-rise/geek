@@ -1,3 +1,4 @@
+# assert语句 https://time.geekbang.org/column/article/106098
 # assert 1 == 2, 'hello word'
 
 

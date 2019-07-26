@@ -1,4 +1,4 @@
-# 装饰器
+# 装饰器 https://time.geekbang.org/column/article/100914
 # def func(message):
 #     print('Got a message: {}'.format(message))
 #

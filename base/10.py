@@ -1,4 +1,4 @@
-# 匿名函数
+# 匿名函数 https://time.geekbang.org/column/article/98411
 from functools import reduce
 
 square = lambda x: x ** 2
